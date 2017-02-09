@@ -1,0 +1,89 @@
+[
+    {
+    "name"      :   "Shahid Afridi",
+    "shortname" :   "Shahid_Afridi",
+    "title"     :   "Cricketer",
+    "bio"       :   "Shahid Khan Afridi is a Pakistani professional cricketer and former captain of the Pakistan national cricket team. He also holds a record of taking most wickets and most player-of-the match awards in Twenty20 International cricket.",
+    "country"   :   "Pakistan"
+    },
+
+    {
+    "name"      :   "Glenn Maxwell",
+    "shortname" :   "Glenn_Maxwell",
+    "title"     :   "Cricketer",
+    "bio"       :   "Glenn James Maxwell is an Australian cricketer who plays One Day International and Twenty 20 International matches for Australia.",
+    "country"   :   "Australia"
+    },
+
+    {
+    "name"      : "Brendon MuCculumn",
+    "shortname" : "Brendon_MuCculumn",
+    "title"     : "Cricketer",
+    "bio"       : "Brendon Barrie McCullum ONZM is a New Zealand cricketer who currently plays professionally with the Otago Volts at provincial level, the Lahore Qalandars in Pakistan Super League, the Brisbane Heat in Australia's",
+    "country"   : "Newzealand"
+    },
+
+    {
+    "name"      :   "AB de Villiers",
+    "shortname" :   "AB_de_Villiers",
+    "title"     :   "Cricketer",
+    "bio"       :   "Abraham Benjamin AB de Villiers is a South African cricketer who captains the South African Test and One Day International teams, and is regarded as one of the best batsman in the world at present and also one of the best of all time",
+    "country"   :   "South Africa"
+    },
+
+    {
+    "name"      : "Yuvraj Singh",
+    "shortname" : "Yuvraj_Singh",
+    "title"     : "Cricketer",
+    "bio"       : "Yuvraj Singh is an Indian international cricketer an all-rounder who bats left-handed in the middle order and bowls slow left-arm orthodox. He is the son of former Indian fast bowler and Punjabi actor Yograj Singh.",
+    "country"   : "India"
+    },
+
+    {
+    "name"      : "Ricky Ponting",
+    "shortname" : "Ricky_Ponting",
+    "title"     : "Cricketer",
+    "bio"       : "Ricky Thomas Ponting, AO, nicknamed Punter, is an Australian former cricketer who was captain of the Australia national cricket team during its 'golden era'; between 2004 and 2011 in Test cricket and 2002 and 2011 in One Day International cricket",
+    "country"   : "Australia"
+    },
+
+    {
+    "name"      : "Misbah Ul Haq",
+    "shortname" : "Misbah_Ul_Haq",
+    "title"     : "Cricketer",
+    "bio"       : "Misbah-ul-Haq Khan Niazi is a Pakistani cricketer and the current Test captain of the Pakistan national cricket team, and was also the One Day International captain until his retirement from ODI cricket",
+    "country"   : "Pakistan"
+    },
+
+    {
+    "name"      : "Muhammad Amir",
+    "shortname" : "Muhammad_Amir",
+    "title"     : "Cricketer",
+    "bio"       : "Mohammad Amir is a Pakistani international cricketer. He is a left-arm fast bowler, who opened the bowling in all formats of the game.",
+    "country"   : "Pakistan"
+    },
+
+    {
+    "name"      : "Mitchell Starc",
+    "shortname" : "Mitchell_Starc",
+    "title"     : "Cricketer",
+    "bio"       : "Mitchell Aaron Starc, is an Australian cricketer who currently plays first-class cricket for the New South Wales Blues. He is a left-arm fast bowler and is also a handy lower order left-handed batsman.",
+    "country"   : "Australia"
+    },
+
+    {
+    "name"      : "Yasir Shah",
+    "shortname" : "Yasir_Shah",
+    "title"     : "Cricketer",
+    "bio"       : "Yasir Shah is an international cricketer from Pakistan who is the second fastest bowler in the history of Test cricket to take 100 wickets. He is a specialist leg break spin bowler and is known for his leg spinners, flippers and googlies",
+    "country"   : "Pakistan"
+    },
+
+    {
+    "name"      : "Shane Watson",
+    "shortname" : "Shane_Watson",
+    "title"     : "Cricketer",
+    "bio"       : "Shane Robert Watson is a former Australian professional cricketer and captain. He played as a right-handed batsman and a right-handed fast-medium swing bowler.",
+    "country"   : "Australia"
+    }
+]
